@@ -1,0 +1,107 @@
+body {
+  background-color: #EBC9C8;
+}
+
+h1 {
+  color: #DE4EFB !important;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.jumbotron {
+  background-color: #EBC9C8;
+  text-align: right;
+}
+
+.container {
+  margin: 0;
+  width: 100%;
+}
+
+.intro {
+  margin-left:300px;
+  width: 60%;
+}
+
+.row {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0;
+  width: 100%;
+}
+
+.zerorow {
+  background-color: #B5E4C7;
+}
+
+.onerow {
+  background-color: #F0C38E;
+}
+
+.tworow {
+  background-color: #CBE6E5;
+}
+
+.threerow {
+  background-color: #F1DE69;
+}
+
+.detail_text {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.cur_text {
+  color: #DE4EFB;
+}
+
+.oth_text {
+  color: #2C24FA;
+}
+
+.btn-default {
+  color: #DE4EFB;
+  font-weight: bold;
+  background-color: transparent;
+  border-color: #DE4EFB;
+
+}
+
+.footer {
+  text-align: center;
+  padding-top: 10px;
+  height: 50px;
+}
+
+.hr0 {  
+  border: none;
+  height: 30px;
+  background: linear-gradient(-185deg, #EBC9C8 10px, transparent 0) 0 5px, linear-gradient(105deg, #EBC9C8 5px, #F1DE69 0) 0 5px;
+  background-color: #EBC9C8;
+  background-position: left bottom;
+  background-repeat: repeat-x;
+  background-size: 10px 25px;
+}
+
+.hr1 {  
+  border: none;
+  height: 30px;
+  background: linear-gradient(-115deg, #EBC9C8 10px, transparent 0) 0 5px, linear-gradient(175deg, #EBC9C8 5px, #F1DE69 0) 0 5px;
+  background-color: #EBC9C8;
+  background-position: left bottom;
+  background-repeat: repeat-x;
+  background-size: 10px 25px;
+}
+
+.hr2 {  
+  border: none;
+  height: 30px;
+  background: linear-gradient(-135deg, #F1DE69 5px, transparent 0) 0 5px, linear-gradient(135deg, #F1DE69 5px, #2C24FA 0) 0 5px;
+  background-color: #F1DE69;
+  background-position: left bottom;
+  background-repeat: repeat-x;
+  background-size: 15px 10px;
+}
+
